@@ -39,4 +39,15 @@ public class EntityManagerTest {
         Map<Object, Object> resourceMap2 = TransactionSynchronizationManager.getResourceMap();
         System.out.println("done = ");
     }
+
+    @Test
+    @DisplayName("[success] osiv_test")
+    public void osiv_test(){
+
+        // given
+
+        // when
+
+        // then
+    }
 }
